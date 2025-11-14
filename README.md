@@ -1,1 +1,1 @@
-Coding Session Questions – Shubham This repository contains a PDF with a set of coding and logic-based questions compiled by Anushka Rana. It includes basic to intermediate programming problems useful for practice, assessments, and interview preparation.
+Coding Session Questions – Shubham This repository contains a PDF with a set of coding and logic-based questions compiled by Shubham. It includes basic to intermediate programming problems useful for practice, assessments, and interview preparation.
